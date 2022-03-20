@@ -1,8 +1,8 @@
 # Scrimba Solo Project
 
 My first react project provided by Scrimba:
-https://scrimba.com/learn/learnreact/section-1-solo-project-coce646e88eea46f91af43ca4
-https://www.figma.com/file/4ctPLUvIn5b5Ep6YPOZWWd/Digital-Business-Card?node-id=0%3A129
+ -- https://scrimba.com/learn/learnreact/section-1-solo-project-coce646e88eea46f91af43ca4
+ -- https://www.figma.com/file/4ctPLUvIn5b5Ep6YPOZWWd/Digital-Business-Card?node-id=0%3A129
 
 ## Things I learned
 
